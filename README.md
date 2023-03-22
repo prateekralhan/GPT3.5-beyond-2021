@@ -1,6 +1,8 @@
 # ChatGPT beyond 2021 🚀 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 
-A minimalistic streamlt webapp using ChatGPT on steroids with google search capabilities since the model was trained with data till Sep 2021. 
+A minimalistic streamlt webapp using ChatGPT on steroids with google search capabilities since the model was trained with data till Sep 2021.
+
+### Live app can be found [here.](https://chatgpt-beyond-2021.onrender.com)
 
 ![demo](https://user-images.githubusercontent.com/29462447/227014383-de92718a-faa2-4ee5-b3f2-f9484c226c26.gif)
 
